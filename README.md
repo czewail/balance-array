@@ -17,7 +17,7 @@ arr = [1，2，3，0，6]
 
 
 ## DEMO
-在线DEMO: [在线DEMO](#https://github.com/czewail/balance-array)
+在线DEMO: [在线DEMO](https://github.com/czewail/balance-array)
 
 ## 本地预览
 
