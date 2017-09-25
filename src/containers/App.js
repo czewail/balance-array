@@ -80,7 +80,7 @@ class App extends React.Component {
                 {
                   this.state.balances.map((balance, index) => {
                     return (
-                      <li key={index}>第{balance.index}位数: {balance.value}</li>
+                      <li key={index}>第{balance.index + 1}位数: {balance.value}</li>
                     )
                   })
                 }

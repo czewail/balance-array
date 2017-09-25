@@ -60,7 +60,7 @@
 /******/ 	
 /******/ 	
 /******/ 	var hotApplyOnUpdate = true;
-/******/ 	var hotCurrentHash = "26ce6498a54d84648895"; // eslint-disable-line no-unused-vars
+/******/ 	var hotCurrentHash = "7785c8edcd4e8eb4d819"; // eslint-disable-line no-unused-vars
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule; // eslint-disable-line no-unused-vars
@@ -6923,7 +6923,7 @@ var App = function (_React$Component) {
                     'li',
                     { key: index },
                     '\u7B2C',
-                    balance.index,
+                    balance.index + 1,
                     '\u4F4D\u6570: ',
                     balance.value
                   );
